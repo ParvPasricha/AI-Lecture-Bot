@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor / OS files
+*.swp
+.DS_Store
