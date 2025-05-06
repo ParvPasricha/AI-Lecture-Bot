@@ -92,11 +92,11 @@ Contributions are welcome—feel free to fork, branch, and submit a pull request
 
 1. Fork the repository.
 2. Create a feature branch to keep work isolated from the main branch:
-   ```bash
+```bash
 git checkout -b feature/your-feature-name
 ```
 3. Make your changes & commit:
-   ```bash
+```bash
 git add .
 git commit -m "Describe your feature or fix"
 ```
